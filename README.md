@@ -46,7 +46,3 @@ $ git pull
 ### Features
 
 - Eslint
-
-## Author
-
-_Gavrikov Alexander_
